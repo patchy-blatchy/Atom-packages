@@ -73,3 +73,5 @@ List of most useful atom packages
 
 - atom-runner (alt+r run your code in atom)
 
+- synced-sidebar (active tab & sidebar are synced - sidebar entry automatically scrolls into view.)
+
