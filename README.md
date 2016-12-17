@@ -5,12 +5,12 @@ List of most useful atom packages
 
  ![emmet](http://media02.hongkiat.com/useful-atom-packages/emmet.gif)
  
-- atom-bracket-hightligt
-
-- atom-bracket-hightligt
+- fancy-bracket-matcher
 
 - autocomplete-paths
 
+ ![autocomplete-paths](http://s1.directupload.net/images/140411/p5kvife6.gif)
+ 
 - open-in-browser
 
 - Script (run code in Atom)
